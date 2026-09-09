@@ -76,7 +76,6 @@ STM32F446
 | **출력** | PE11 | TIM1_CH2 (PWM) | RGB LED (Green) | PSC: 179, ARR: 999 (1kHz 주파수), 왜곡(Glitch) 방지를 위한 Auto-reload preload 활성화 |
 | **출력** | PE13 | TIM1_CH3 (PWM) | RGB LED (Blue) | PSC: 179, ARR: 999 (1kHz 주파수), 왜곡(Glitch) 방지를 위한 Auto-reload preload 활성화 |
 | **출력** | PF15 | GPIO_Output | 단색 LED (단단) | 일반 고휘도 LED 기준 상태 표시용 디지털 출력 (No pull-up/pull-down) |
-| **인터페이스**| - | RMII / USB / UART | 이더넷 및 주변 장치 노드 | LAN8742A-CZ-TR 인터페이스 연동 및 관제 센터향 저지연 인프라 확장성 확보 |
 
 ## 📌 주요 개발 내용
 
